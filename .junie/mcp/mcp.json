@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/fabianpankoke/Library/Application Support/Herd/bin/php85",
+            "args": [
+                "/Users/fabianpankoke/dev/timberborn-companion-app/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
