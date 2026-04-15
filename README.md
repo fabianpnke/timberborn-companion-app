@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://testflight.apple.com/join/5v2cgNPp" alt="Available on TestFlight">
+        <img src="public/testflight.png" /></a>
+</p>
+
 # NativePHP Mobile Starter Template
 
 A pre-configured Laravel + NativePHP Mobile starter template.
